@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+    height: 900px;
+}
+h1{
+    font-weight: 50vh;
+}
+#Stop{
+    border-radius: 5px;
+    cursor: pointer;
+}
+#Start{
+    border-radius: 5px;
+    cursor: pointer;
+}
